@@ -4,11 +4,11 @@ Co‑Founder & CTO at Inclusive Brains, AI Scientist and Senior AI Architect & C
 
 ---
 
-## 🚀 Who I Am
+## Who I Am
 
 I co-founded **Inclusive Brains** in 2022 alongside Olivier Oullier. Together, we build non-invasive, multimodal neurotechnologies powered by generative AI, enabling individuals with severe physical impairments to interact with digital environments through brainwaves and physiological signals
 
-At **Wavestone**, I serve as Senior AI Architect and consultant, focusing on cognitive agentic systems in industrial contexts.
+At **Wavestone**, I serve as Senior AI Architect and consultant, focusing on agentic systems in industrial contexts.
 
 ---
 
