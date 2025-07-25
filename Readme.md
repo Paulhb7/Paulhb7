@@ -19,14 +19,18 @@ At **Wavestone**, I serve as Senior AI Architect and consultant, focusing on cog
 - Key milestones include:
   - Paris 2024 Olympic Torch Relay powered by Prometheus, enabling torch control via an exoskeleton arm
   - First mind-written tweet and parliamentary amendment in France using Prometheus BCI 
-- Household name in AI for accessibility—awarded *Startup of the Year 2024*, recognized among “AI Inventors of the Year”, by le Point.
 
-### Wavestone & Public Engagement
+### Public Engagement & Teaching
 - Lead the **Neurotech and AI track** at École Polytechnique–HEC
-- Presented Prometheus BCI at major events, including the United Nations *AI for Good Global Summit* in Geneva, showcasing real-world accessibility innovation made possible by Inclusive Brains technology
+- Presented Prometheus BCI at major events, including the United Nations *AI for Good Global Summit* in Geneva
+
+## 🧠🏅 Ego stuff - Hackathons & Prizes
+
 - **X‑Impact Tech 2021** (École Polytechnique) — *1er prix*
-- **Second Place – Hugging Face & Gradio Hackathon AI Agents (June 2025)**  
-  With Tristan Darrigol and Clément Peponnet, secured 2nd place in the global Hackathon (~600 projects) by building **SentinelOne**, an open-source multi-agent platform for real-time climate risk assessment and monitoring, powered by collaborative LLM agents
+- **X-Grant High Impact Innovation 2021** (École Polytechnique) - *2e prix*
+- **Handitech Trophy** - 2023 - *innovation prize*, *researcher prize*
+- **Top 100 Inventors by Le Point** - 2024
+- **Second Place – Hugging Face & Gradio Hackathon AI Agents (June 2025)** With Tristan Darrigol and Clément Peponnet,
 
 ---
 
