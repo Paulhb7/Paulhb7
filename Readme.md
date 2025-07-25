@@ -1,9 +1,3 @@
-# Paul Barbaste
-
-Co‑Founder & CTO at Inclusive Brains, AI Scientist and Senior AI Architect & Consultant at Wavestone.
-
----
-
 ## Who I Am
 
 I co-founded **Inclusive Brains** in 2022 alongside Olivier Oullier. Together, we build non-invasive, multimodal neurotechnologies powered by generative AI, enabling individuals with severe physical impairments to interact with digital environments through brainwaves and physiological signals
