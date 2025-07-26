@@ -18,7 +18,7 @@ At **Wavestone**, I serve as Senior AI Architect and consultant, focusing on age
 - Lead the **Neurotech and AI track** at École Polytechnique–HEC
 - Presented Prometheus BCI at major events, including the United Nations *AI for Good Global Summit* in Geneva
 
-## 🧠🏅 Ego stuff - Hackathons & Prizes
+### Ego stuff - Hackathons & Prizes
 
 - **X‑Impact Tech 2021** (École Polytechnique) — *1er prix*
 - **X-Grant High Impact Innovation 2021** (École Polytechnique) - *2e prix*
@@ -28,14 +28,7 @@ At **Wavestone**, I serve as Senior AI Architect and consultant, focusing on age
 
 ---
 
-## 🎯 What Drives Me
-
-- To use AI and neurotechnology for **human-centered innovation** and digital inclusion.
-- To further democratize access to neuro‑assistive technologies through **open‑source**.
-
----
-
-## 📫 Contact
+📫 Contact
 
 - **GitHub**: [@Paulhb7](https://github.com/Paulhb7)  
 - **X (Twitter)**: [@PBarbaste](https://x.com/pbarbaste) – AI, neurotech & inclusion.
