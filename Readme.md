@@ -2,7 +2,7 @@
 
 I co-founded **Inclusive Brains** in 2022 alongside Olivier Oullier. Together, we build non-invasive, multimodal neurotechnologies powered by generative AI, enabling individuals with severe physical impairments to interact with digital environments through brainwaves and physiological signals
 
-At **Wavestone**, I serve as Senior AI Architect and consultant, focusing on agentic systems in industrial contexts.
+At **Wavestone**, I serve as Senior AI Applied Engineer and consultant, focusing on agentic systems in industrial contexts.
 
 ---
 
@@ -24,7 +24,12 @@ At **Wavestone**, I serve as Senior AI Architect and consultant, focusing on age
 - **X-Grant High Impact Innovation 2021** (École Polytechnique) - *2e prix*
 - **Handitech Trophy** - 2023 - *innovation prize*, *researcher prize*
 - **Top 100 Inventors by Le Point** - 2024
-- **Second Place – Hugging Face & Gradio Hackathon AI Agents (June 2025)** With Tristan Darrigol and Clément Peponnet,
+
+#### Coding Challenges 
+- **Project Sentinel One : Second Place – Hugging Face & Gradio Hackathon AI Agents (June 2025)**
+- **Project Hive.ai : First Place – IBM WatsonX AI Preconference hackathon (August 2025)**
+- **Project Hive.ai : Finalist – Call for Code - IBM, UN and Linux Foundation (September 2025 - waiting for the final response))**
+- **Project The Astronomists : Global Nominee - NASA App Challenge (October 2025 - biggest worldwide coding Hackathon, waiting for the final response)**
 
 ---
 
