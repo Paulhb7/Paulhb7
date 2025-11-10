@@ -25,7 +25,7 @@ At **Wavestone**, I serve as Senior AI Applied Engineer and consultant, leading 
 -🔹 **Handitech Trophy** - 2023 - *innovation prize*, *researcher prize*
 -🔹 **Top 100 Inventors by Le Point** - 2024
 
-#### ✨ Coding Challenges
+#### ✨ Projects and Coding Challenges
 -🔹 **Project Sentinel One : Second Place – Hugging Face & Gradio Hackathon AI Agents (June 2025)**
 -🔹 **Project Hive.ai : First Place – IBM WatsonX AI Preconference hackathon (August 2025)**
 -🔹 **Project Hive.ai : Finalist – Call for Code - IBM, UN and Linux Foundation (September 2025 - waiting for the final response))**
