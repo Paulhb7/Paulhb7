@@ -1,8 +1,8 @@
 ## Who I Am
 
-I co-founded **Inclusive Brains** in 2022 alongside Olivier Oullier. Together, we build non-invasive, multimodal neurotechnologies powered by generative AI, enabling individuals with severe physical impairments to interact with digital environments through brainwaves and physiological signals
-
 At **Wavestone**, I serve as Senior AI Applied Engineer Lead, leading MVP developpment (AI Agents and MCPs) for CAC40 Clients. Tech stack : Azure, GCP & On-prem solutions. Agentic Frameworks : Langchain / Google Agent Development Kit / Mistral AI Studio & Mistral Workflow. AI Frameworks : Pytorch & scikitlearn.
+
+I co-founded **Inclusive Brains** in 2022 alongside Olivier Oullier. Together, we build non-invasive, multimodal neurotechnologies powered by generative AI, enabling individuals with severe physical impairments to interact with digital environments through brainwaves and physiological signals
 
 ---
 
