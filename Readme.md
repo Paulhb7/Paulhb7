@@ -18,7 +18,7 @@ At **Wavestone**, I serve as Senior AI Applied Engineer Lead, leading MVP develo
 - Lead the **Neurotech and AI track** at École Polytechnique–HEC
 - Presented Prometheus BCI at major events, including the United Nations *AI for Good Global Summit* in Geneva
 
-### 🏆 Ego stuff - Hackathons & Prizes
+### 🏆 Ego stuff !!! Be humble attention !! - Hackathons & Prizes
 
 -🔹 **X‑Impact Tech 2021** (École Polytechnique) — *1er prix*
 -🔹 **X-Grant High Impact Innovation 2021** (École Polytechnique) - *2e prix*
