@@ -1,11 +1,26 @@
-<!-- Animated Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Ask Me About -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="32">
+  Ask Me About
+</h2>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic_AI-7E57C2?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/MCP_Servers-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/LLM_Deployment-FF9800?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM"/>
+  <img src="https://img.shields.io/badge/Neurotechnology-2196F3?style=for-the-badge&logo=databricks&logoColor=white" alt="Neurotech"/>
+  <img src="https://img.shields.io/badge/Brain--Computer_Interfaces-00FFAA?style=for-the-badge&logo=brain&logoColor=black" alt="BCI"/>
+  <img src="https://img.shields.io/badge/Inclusive_Tech-00BFA6?style=for-the-badge&logo=accessibility&logoColor=white" alt="Inclusion"/>
+</p>
+
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 <!-- About Me Section -->
 <h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <span> About Me</span>
 </h2>
 
@@ -22,12 +37,12 @@ education:
   - "Engineering & AI"
 
 fields_of_interests:
-  - "Brain-Computer Interfaces"
-  - "Neurotechnology"
   - "Agentic AI Systems"
   - "Generative AI"
   - "Large Language Models"
   - "MCP Servers"
+  - "Brain-Computer Interfaces"
+  - "Neurotechnology"
 
 signature_project:
   name: "Prometheus BCI"
@@ -97,27 +112,6 @@ highlights:
     </td>
   </tr>
 </table>
-
-<!-- Animated Line Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-
-<!-- Ask Me About -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="32">
-  Ask Me About
-</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Brain--Computer_Interfaces-00FFAA?style=for-the-badge&logo=brain&logoColor=black" alt="BCI"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-7E57C2?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI"/>
-  <img src="https://img.shields.io/badge/MCP_Servers-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" alt="MCP"/>
-  <img src="https://img.shields.io/badge/LLM_Deployment-FF9800?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM"/>
-  <img src="https://img.shields.io/badge/Neurotechnology-2196F3?style=for-the-badge&logo=databricks&logoColor=white" alt="Neurotech"/>
-  <img src="https://img.shields.io/badge/Inclusive_Tech-00BFA6?style=for-the-badge&logo=accessibility&logoColor=white" alt="Inclusion"/>
-</p>
 
 <!-- Animated Line Divider -->
 <p align="center">
