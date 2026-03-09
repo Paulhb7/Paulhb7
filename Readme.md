@@ -1,37 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PAUL%20BARBASTE&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Neurotechnology%20%7C%20Brain-Computer%20Interfaces&descAlignY=52&descSize=18"/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%F0%9F%A7%A0+Bridging+Brains+%26+Machines+with+AI;%F0%9F%94%AC+Co-founder+%40+Inclusive+Brains;%F0%9F%92%A1+Senior+AI+Engineer+Lead+%40+Wavestone;%F0%9F%8F%86+Paris+2024+Olympic+Torch+%E2%80%93+Powered+by+Prometheus+BCI" alt="Typing SVG" />
-
-<br/>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Paulhb7&color=brightgreen" alt="Profile views" />
-</p>
-
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://github.com/Paulhb7">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://x.com/pbarbaste">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
-
-<!-- Animated Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
 <!-- Ask Me About -->
 <h2 align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW4zcWcwZTU3NXQ1ZGFhb2ZiNXcwbmdvazczYnZoeDJnYnZoZDZpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="32">
