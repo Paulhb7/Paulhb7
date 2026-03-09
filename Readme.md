@@ -1,6 +1,6 @@
 <!-- Ask Me About -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="32">
+  <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW4zcWcwZTU3NXQ1ZGFhb2ZiNXcwbmdvazczYnZoeDJnYnZoZDZpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)" width="32">
   Ask Me About
 </h2>
 
