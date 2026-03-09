@@ -34,7 +34,7 @@ current_roles:
   - "Senior AI Applied Engineer Lead @ Wavestone"
 
 education:
-  - "Engineering & AI"
+  - "Engineering & AI" - HEC & Ecole Polytechnique
 
 fields_of_interests:
   - "Agentic AI Systems"
