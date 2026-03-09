@@ -1,14 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%F0%9F%A7%A0+Bridging+Brains+%26+Machines+with+AI;%F0%9F%94%AC+Co-founder+%40+Inclusive+Brains;%F0%9F%92%A1+Senior+AI+Engineer+Lead+%40+Wavestone;%F0%9F%8F%86+Paris+2024+Olympic+Torch+%E2%80%93+Powered+by+Prometheus+BCI" alt="Typing SVG" />
-
-<br/>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Paulhb7&color=brightgreen" alt="Profile views" />
-</p>
-
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/Paulhb7">
