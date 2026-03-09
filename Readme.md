@@ -24,7 +24,7 @@
   <span> About Me</span>
 </h2>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+<img align="right" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW4zcWcwZTU3NXQ1ZGFhb2ZiNXcwbmdvazczYnZoeDJnYnZoZDZpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)" alt="Coder GIF" width="400">
 
 ```yaml
 name: Paul Barbaste
