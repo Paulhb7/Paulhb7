@@ -1,13 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PAUL%20BARBASTE&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Neurotechnology%20%7C%20Brain-Computer%20Interfaces&descAlignY=52&descSize=18"/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
-<br/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%F0%9F%A7%A0+Bridging+Brains+%26+Machines+with+AI;%F0%9F%94%AC+Co-founder+%40+Inclusive+Brains;%F0%9F%92%A1+Senior+AI+Engineer+Lead+%40+Wavestone;%F0%9F%8F%86+Paris+2024+Olympic+Torch+%E2%80%93+Powered+by+Prometheus+BCI" alt="Typing SVG" />
 
 <br/>
@@ -132,60 +124,6 @@ highlights:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- Current Projects -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="32">
-  Current Projects
-</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80" alt="BCI"/>
-      <br><br>
-      <b>🧠 Prometheus BCI</b>
-      <br><br>
-      <span>Open-source brain-computer interface enabling device control through brainwaves and physiological signals</span>
-      <br><br>
-      <a href="https://github.com/Paulhb7?tab=repositories">
-        <img src="https://img.shields.io/badge/Explore_Repos-00FFAA?style=for-the-badge&logo=github&logoColor=black" alt="Explore"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="80" alt="AI"/>
-      <br><br>
-      <b>🤖 AI Agents & MCP</b>
-      <br><br>
-      <span>Leading MVP development of AI Agents and MCP servers for CAC40 clients at Wavestone</span>
-      <br><br>
-      <a href="https://github.com/Paulhb7?tab=repositories&q=ai">
-        <img src="https://img.shields.io/badge/View_AI_Projects-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Projects"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Animated Line Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<!-- Teaching -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="32">
-  Teaching & Public Engagement
-</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Neurotech_%26_AI_Track-E4002B?style=for-the-badge&logo=academia&logoColor=white" alt="Polytechnique-HEC"/>
-  <img src="https://img.shields.io/badge/%C3%89cole_Polytechnique_--_HEC-003366?style=for-the-badge&logoColor=white" alt="Teaching"/>
-  <img src="https://img.shields.io/badge/UN_AI_for_Good_Summit-009EDB?style=for-the-badge&logo=unitednations&logoColor=white" alt="UN"/>
-</p>
-
-<!-- Animated Line Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
 
 <!-- Ask Me About -->
 <h2 align="center">
@@ -340,9 +278,6 @@ highlights:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 <!-- Visitor Badge at Bottom -->
 <p align="center">
