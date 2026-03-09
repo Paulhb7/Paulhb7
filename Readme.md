@@ -79,10 +79,6 @@ highlights:
   <img src="https://img.shields.io/badge/HEC%20PARIS-003366?style=for-the-badge&logoColor=white" alt="HEC" />
 </p>
 
-<p align="center">
-  <em>Co-founded Inclusive Brains in 2022 with Olivier Oullier to build non-invasive, multimodal neurotechnologies powered by generative AI</em>
-</p>
-
 <!-- Animated Line Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
